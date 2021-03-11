@@ -1,0 +1,2 @@
+shapeClass = design_patterns.Criacao.factoryMethod.shape.Circle
+color = 0,0,255
