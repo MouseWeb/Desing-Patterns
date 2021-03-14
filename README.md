@@ -1,4 +1,3 @@
-# Desing-Patterns
   <h2>Padrões de Criação</h2>
 - singleton = centraliza e compartilha recursos. </br>
 - Abstract Factory = cria familia de obj de alta flexibilidade. </br>
