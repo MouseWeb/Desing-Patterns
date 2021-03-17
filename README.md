@@ -21,7 +21,7 @@
 - Chain of Responsibility = Evita o acoplamento do remetente de uma solicitação ao </br>
   seu destinatário, dando a mais de um obj a chance de tratar a solicitação. </br>
   Encadeia os objetos receptores e passa a solicitação ao longo da cadeia até que </br>
-  um obj a trate.
+  um obj a trate. </br>
 - command = transforma requisições em obj. </br>
 - Interpreter = define uma gramatica e um intepretador. </br>
 - Iterator = pecorre um conjunto de dados independente da implementação. </br>
