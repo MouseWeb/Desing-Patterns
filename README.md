@@ -11,7 +11,7 @@
 - Adapter = pluga um conteúdo a um sistema. </br>
 - Bridge = separa implementações de abstrações. </br>
 - Composite = trata todos obj de forma justa. </br>
-- Decorator = Inclamenta funcionalidades diferentes. </br>
+- Decorator = Inclementa funcionalidades diferentes. </br>
 - Facade = Simplifica a utilização de sistemas complexos. </br>
 - Proxy = Faz um obj representar outro obj. </br>
 - Flyweight = Usa compartilhamento para suportar grandes quantidades de objetos, de </br>
@@ -26,8 +26,8 @@
 - Interpreter = define uma gramatica e um intepretador. </br>
 - Iterator = pecorre um conjunto de dados independente da implementação. </br>
 - Mediator = simplificador de relacionamentos complexos. </br>
-- memento = Sem violar a encapsulação, capturae externaliza um estado  interno de um obj, </br>
-  de modo que o mesmo possa posteriormente  ser restaurado para este estado. </br>
+- memento = Sem violar a encapsulação, capture externaliza um estado interno de um obj, </br>
+  de modo que o mesmo possa posteriormente ser restaurado para este estado. </br>
 - Observer = compartilhamento de recursos de maneira inteligente. </br>
 - State = simplifica a troca de dados internos de um obj. </br>
 - Strategy = Separa os dados dos algoritimos para usar a reusabilidade. </br>
