@@ -1,0 +1,12 @@
+
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(„Çğö
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ø’Éñşÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ÈŞ«‚şÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(¼ä¢Ûÿÿÿÿÿ
+d
+java:S1192"IDefine a constant instead of duplicating this literal "standard" 3 times.(í¯·˜üÿÿÿÿ
+c
+java:S1192"HDefine a constant instead of duplicating this literal "highEnd" 3 times.(´£ò¹øÿÿÿÿ
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆğŒ­8¹µÁæ¿/
+_
+java:S2259"DA "NullPointerException" could be thrown; "device" is nullable here.(ÏÙ«øÿÿÿÿ

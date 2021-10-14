@@ -8,7 +8,7 @@ import design_patterns_cod3r.Criacao.abstractfactory.apple.factory.abstractFacto
 import design_patterns_cod3r.Criacao.abstractfactory.apple.model.iphone.IPhone;
 
 public class Client {
-	
+
 	public static void main(String[] args) {
 		CountryRulesAbstractFactory rules = new BrazilianRulesAbstractFactory();
 		IPhoneFactory genXFactory = new IPhoneXFactory(rules);

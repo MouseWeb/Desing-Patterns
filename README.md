@@ -33,5 +33,5 @@
 - Strategy = Separa os dados dos algoritimos para usar a reusabilidade. </br>
 - Template Method = defini algoritimos extenciveis. </br>
 - Visitor = defini uma nova operação para uma class sem altera-la. </br>
-
+13
 Direito autoral: Livro (Padrões de projetos - GOF)

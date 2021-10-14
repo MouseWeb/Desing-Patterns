@@ -1,0 +1,18 @@
+
+t
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä¦Óëþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÿâöøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(íäªýÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(á˜£
+S	java:S106"9Replace this use of System.out or System.err by a logger.(íäªýÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŒÞ·ºúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ì™áýûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(íäªýÿÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ïàƒ\
+S	java:S106"9Replace this use of System.out or System.err by a logger.(íäªýÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(©ÁÕ¬
+U
+java:S1854>":Remove this useless assignment to local variable "person".(ëñòŠýÿÿÿÿ
+V	java:S125/"<This block of commented-out lines of code should be removed.(§Å‘Üøÿÿÿÿ
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍËåûÿÿÿÿ8Ø¾Ýæ¿/
